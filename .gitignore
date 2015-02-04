@@ -1,0 +1,9 @@
+*.aux
+*.dvi
+*.log
+git_intro.nav
+git_intro.out
+git_intro.pdf
+git_intro.snm
+git_intro.toc
+git_intro.vrb
